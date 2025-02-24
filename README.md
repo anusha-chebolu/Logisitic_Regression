@@ -1,4 +1,4 @@
-# RockTypeClassifier
+# Rock-Type-Classifier
 In this problem, you will apply different classification methods. You will use a Rock dataset where you will use 19 different rock features to predict the rock category. The data you need are included in these two files: 1) aggregateRockData.xlsx Download aggregateRockData.xlsxyou will only use 2nd column that contains the rock category number (1 = Igneous, 2 = Metamorphic, 3 = Sedimentary) - that will be the label. 2) norm540.txt  Download norm540.txtyou will only use columns 4 to 22 - those will be the attributes (features). See this website for a detailed description of the dataset: https://osf.io/cvwu9/wiki/Data%20File%20Descriptions/. Links to an external site.
 Answer the questions below directly in your Jupyter Notebook, using Markdown cells. Be sure to clearly indicate that your comment is an answer to a particular question.
 1.	Display the statistical values for each of the attributes, along with visualizations (e.g., histogram) of the distributions for each attribute. Are there any attributes that might require special treatment? If so, what special treatment might they require? [2 points]
